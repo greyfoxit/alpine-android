@@ -14,7 +14,7 @@ A minimal Android [Docker](https://www.docker.com/) image based on [Alpine Linux
 - Android SDK Tools ( **25.2.5** )
 - Google Play Services ( **revision 40** )
 - Google Repository ( **revision 51**)
-- add-ons: **bash**
+- add-ons: **bash, curl, git, openssl, openssh-client, ca-certificates**
 
 ## Use this &nbsp;>
 

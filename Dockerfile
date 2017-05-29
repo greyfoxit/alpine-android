@@ -15,7 +15,7 @@ ENV	ANDROID_SDK_UPDATE=build-tools-$VERSION_BUILD_TOOLS,android-$VERSION_TARGET_
 
 # Install dependencies
 
-RUN apk add --no-cache bash \
+RUN apk add --no-cache bash curl git openssl openssh-client ca-certificates \
 
 # Download Android SDK packages
 
