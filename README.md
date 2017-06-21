@@ -8,12 +8,13 @@ A minimal Android [Docker](https://www.docker.com/) image based on [Alpine Linux
 
 - Alpine ( **3.6** )
 - OpenJDK 8 ( **8u131** )
-- Android SDK ( **7.1.1, API 25, revision 3** )
-- Android SDK Platform-Tools ( **25.0.6** )
-- Android SDK Build-Tools ( **25.0.3** )
-- Android SDK Tools ( **25.2.5** )
-- Google Play Services ( **revision 40** )
-- Google Repository ( **revision 51**)
+- Android SDK ( **7+ (O), API 26, revision 1** )
+- Android SDK Platform-Tools ( **26.0.0** )
+- Android SDK Build-Tools ( **26.0.0** )
+- Android SDK Tools ( **26.0.2** )
+- Android Support Repository ( **47.0.0**)
+- Google Play Services ( **revision 41** )
+- Google Repository ( **revision 54**)
 - add-ons: **bash, curl, git, openssl, openssh-client, ca-certificates**
 
 ## Use this &nbsp;>
