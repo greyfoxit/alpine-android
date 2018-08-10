@@ -8,8 +8,8 @@ A minimal Android [Docker](https://www.docker.com/) image based on [Alpine Linux
 
 - Alpine ( **3.6** )
 - OpenJDK 8 ( **8u131** )
-- Android SDK ( **8.0 Oreo, API 26, revision 2** )
-- Android SDK Build-Tools ( **27.0.1** )
+- Android SDK ( **8+ P, API 28, revision 6** )
+- Android SDK Build-Tools ( **28.0.2** )
 - ContraintLayout with Solver ( **1.0.2** )
 - Instant Apps SDK ( **latest** )
 - Google APIs ( **24** )
